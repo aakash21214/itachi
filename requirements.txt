@@ -27,6 +27,7 @@ regex
 redis
 bleach
 wikipedia
+git+https://github.com/trentm/python-markdown2.git
 telethon==1.16.4
 tswift
 fontTools
